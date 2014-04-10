@@ -4,7 +4,7 @@ Magnum_Bellum
 
 This is an FPS set in WWI made using the Unity game engine. More information can be found on the Binary Bellators' website (incomplete).
 
-This will be a fun game, do not w
+This will be a fun game, do not worry
 
 The maps will be deep, do not die!
 
