@@ -6,7 +6,7 @@ This is an FPS set in WWI made using the Unity game engine. More information can
 
 This will be a fun game, do not worry.
 
-The maps will be deepe, do not die! ( inside joke)
-
+The maps will be depe, do not die! (inside joke)
+ 
 
 
