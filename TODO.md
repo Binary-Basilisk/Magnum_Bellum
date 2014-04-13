@@ -1,4 +1,4 @@
-#                             OFFICIAL BINARY BAsilisk TASK LIST FOR MAGNUM BELLUM
+#                             OFFICIAL BINARY BASILISK TASK LIST FOR MAGNUM BELLUM
 
 
 ## Tasks:
