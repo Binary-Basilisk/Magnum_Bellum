@@ -1,4 +1,4 @@
-#                             OFFICIAL BINARY BELLATORS TASK LIST FOR MAGNUM BELLUM
+#                             OFFICIAL BINARY BAsilisk TASK LIST FOR MAGNUM BELLUM
 
 
 ## Tasks:
