@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\MainMenu\Scripts\ExitButtonScript.cs" />
+     <Compile Include="Assets\MainMenu\Scripts\MainMenuScript.cs" />
+     <Compile Include="Assets\MainMenu\Scripts\MultiplayerButtonScript.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
